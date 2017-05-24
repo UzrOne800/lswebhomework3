@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Steve Kinsman
 
-I like to:
+I like to: Play music when I have the time.
 
-I'm learning:
+I'm learning: The basics of coding at the moment.
 
 ```
 
